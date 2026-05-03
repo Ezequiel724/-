@@ -1,0 +1,5 @@
+{"ts":"2026-05-03T09:27:19.071Z","source":"tier1","error":"ollama 404: {\"error\":\"model 'qwen3:14b' not found\"}","context":{"prompt":"hi"}}
+{"ts":"2026-05-03T09:27:20.041Z","source":"tier2-pro","error":"deepseek 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}","context":{"prompt":"hi"}}
+{"ts":"2026-05-03T09:27:20.985Z","source":"tier2-flash","error":"deepseek 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}","context":{"prompt":"hi"}}
+{"ts":"2026-05-03T09:27:44.341Z","source":"tier2-pro","error":"deepseek 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}","context":{"prompt":"Summarize: Apollo 1961-1972, 12 men on moon."}}
+{"ts":"2026-05-03T09:27:45.155Z","source":"tier2-flash","error":"deepseek 402: {\"error\":{\"message\":\"Insufficient Balance\",\"type\":\"unknown_error\",\"param\":null,\"code\":\"invalid_request_error\"}}","context":{"prompt":"Summarize: Apollo 1961-1972, 12 men on moon."}}
